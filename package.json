@@ -1,0 +1,24 @@
+{
+  "name": "web-project",
+  "version": "1.0.0",
+  "description": "<!--\"This is my first change in Git using GitHub\"-->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramya6599/web-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ramya6599/web-project/issues"
+  },
+  "homepage": "https://github.com/ramya6599/web-project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
